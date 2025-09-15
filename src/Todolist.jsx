@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+/*import React, { useState } from 'react'
 
 const Todolist = () => {
  const [input,setInput]=useState("");
@@ -71,4 +71,4 @@ todolist.filter((t)=>(t.id!==id))
   )
 }
 
-export default Todolist
+export default Todolist*/
